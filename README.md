@@ -43,9 +43,10 @@ To run this project in your local machine
 
 <----------------------To access mongoDb Atlas collection---------------------------------->
 1. open mongodb compass
-2. paste  link on New Collection Url and press save and connect
+2. paste below link on New Collection Url and press save and connect
+    link= mongodb+srv://Admin:t4UaVnaztokq36sm@mernuser.mzkelwc.mongodb.net/test
 
-3. goto test->bookmovietickets
+4. goto test->bookmovietickets
 
 
 Thank You!!!!!
